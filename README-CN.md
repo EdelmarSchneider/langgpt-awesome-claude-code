@@ -140,7 +140,7 @@ Claude Code 是 Anthropic 推出的智能编程助手，它生活在你的终端
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Claude Code 的简化 Gemini | Gemini 集成|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | 为 Claude Code 带来 Gemini AI 功能的轻量级 MCP 集成 | 轻量级 Gemini 集成|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | Claude Code 的 MCP Gemini 编程助手 | Gemini 编程助手|
-|[PerMark](https://github.com/EdelmarSchneider/permark) | ![GitHub Repo stars](https://badgen.net/github/stars/EdelmarSchneider/permark) | 面向 AI 时代的桌面端 Markdown IDE：用 Markdown 与智能体共同规划、沉淀规范并引导开发，支持实时段落高亮、未读追踪、行内批注与本地 MCP 连接，同时提供精美的文档阅读（Mermaid、公式、表格）、可视化编辑与自动保存笔记 | AI 时代 Markdown IDE 与 MCP|
+|[PerMark](https://github.com/EdelmarSchneider/permark) | ![GitHub Repo stars](https://badgen.net/github/stars/EdelmarSchneider/permark) | 一款 Markdown 应用，用来阅读和审阅 AI 智能体写下的内容，并通过文档引导工作 | Markdown 应用 + MCP 服务器|
 
 ## 指南与文档
 
